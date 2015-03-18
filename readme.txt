@@ -45,7 +45,13 @@ jQuery( '.selector' ).initEqualHeights();
 The function initEqualHeights takes three optional arguments, the minimum height (number of pixels), maximum height, and the breakpoint (below which the heights will revert to their original size):
 
 `
-// jQuery( '.selector' ).initEqualHeights( minHeight, maxHeight, breakPoint );
+jQuery( '.selector' ).initEqualHeights( minHeight, maxHeight, breakPoint );
+
+`
+
+So an example might look like this:
+
+`
 jQuery( '.selector' ).initEqualHeights( 200, 500, 768 );
 `
 
