@@ -1,0 +1,80 @@
+# Copyright (C) 2015 MIGHTYminnow, Mickey Kay, Braad Martin
+# This file is distributed under the GPL-2.0+.
+msgid ""
+msgstr ""
+"Project-Id-Version: Equal Height Columns 1.0.0\n"
+"Report-Msgid-Bugs-To: "
+"http://wordpress.org/support/plugin/equal-height-columns\n"
+"POT-Creation-Date: 2015-03-18 00:00:32+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2015-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"X-Generator: grunt-wp-i18n 0.5.0\n"
+
+#: admin/class-equal-height-columns-admin.php:143
+#: release/1.0.0/equal-height-columns/admin/class-equal-height-columns-admin.php:143
+msgid "+ Add More"
+msgstr ""
+
+#: admin/class-equal-height-columns-admin.php:162
+#: release/1.0.0/equal-height-columns/admin/class-equal-height-columns-admin.php:162
+msgid "<br />Instructions"
+msgstr ""
+
+#: admin/class-equal-height-columns-admin.php:175
+#: release/1.0.0/equal-height-columns/admin/class-equal-height-columns-admin.php:175
+msgid "Column Group #"
+msgstr ""
+
+#: admin/class-equal-height-columns-admin.php:210
+#: release/1.0.0/equal-height-columns/admin/class-equal-height-columns-admin.php:210
+msgid ""
+"<b>Selector</b> - jQuery/CSS selectors of the elements you wish to target. "
+"Examples: <code>.col-1, .col-2</code> or <code>.container .col</code>"
+msgstr ""
+
+#: admin/class-equal-height-columns-admin.php:211
+#: release/1.0.0/equal-height-columns/admin/class-equal-height-columns-admin.php:211
+msgid ""
+"<b>Breakpoint</b> - The screen width <i>above</i> which you want equal "
+"heights to take effect.</code>"
+msgstr ""
+
+#: admin/class-equal-height-columns-admin.php:223
+#: release/1.0.0/equal-height-columns/admin/class-equal-height-columns-admin.php:223
+msgid "Selector:"
+msgstr ""
+
+#: admin/class-equal-height-columns-admin.php:231
+#: release/1.0.0/equal-height-columns/admin/class-equal-height-columns-admin.php:231
+msgid ".col-1, .col-2, .col-3"
+msgstr ""
+
+#: admin/class-equal-height-columns-admin.php:239
+#: release/1.0.0/equal-height-columns/admin/class-equal-height-columns-admin.php:239
+msgid "Breakpoint:"
+msgstr ""
+
+#: admin/class-equal-height-columns-admin.php:252
+#: release/1.0.0/equal-height-columns/admin/class-equal-height-columns-admin.php:252
+msgid "Remove"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Equal Height Columns"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Apply equal heights to uneven columns and elements."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "MIGHTYminnow, Mickey Kay, Braad Martin"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://mightyminnow.com"
+msgstr ""
