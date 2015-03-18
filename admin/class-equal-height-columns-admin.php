@@ -172,7 +172,7 @@ class Equal_Height_Columns_Admin {
 
 	        add_settings_field(
 	            'elements-group-' . $i, // ID
-	            __( 'Column Group #', 'equal-height-columns' ) . '<span class="index-number">' . $i . '<span>', // Title
+	            __( 'Group #', 'equal-height-columns' ) . '<span class="index-number">' . $i . '<span>', // Title
 	            array( $this, 'output_elements_fields' ), // Callback
 	            $this->plugin_name, // Page
 	            'main-settings', // Section
