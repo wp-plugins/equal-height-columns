@@ -4,7 +4,7 @@ Donate link:       http://mightyminnow.com
 Tags:              equal, height, column, div, element, jQuery, JavaScript
 Requires at least: 3.5
 Tested up to:      4.2
-Stable tag:        1.0.0
+Stable tag:        1.0.1
 License:           GPLv2 or later
 License URI:       http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -92,10 +92,16 @@ jQuery( window ).trigger( 'equalheights' );
 
 == Changelog ==
 
+= 1.0.1 =
+* Improve admin (Mm)
+
 = 1.0.0 =
 * First release
 
 == Upgrade Notice ==
+
+= 1.0.1 =
+* Improve admin (Mm)
 
 = 1.0.0 =
 First Release
