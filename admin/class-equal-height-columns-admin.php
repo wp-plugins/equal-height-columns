@@ -285,8 +285,8 @@ class Equal_Height_Columns_Admin {
 
 	function output_element_section_info() {
 		?>
-		<p><?php _e( '<b>Selector:</b> jQuery/CSS selectors of the elements you wish to target. Examples: <code>.col-1, .col-2</code> or <code>.container .col</code>', 'equal-height-columns' ); ?></p>
-		<p><?php _e( '<b>Breakpoint:</b> Screen width <i>above</i> which you want equal heights to take effect.</code>', 'equal-height-columns' ); ?></p>
+		<p><b><?php _e( 'Selector:', 'equal-height-columns' ); ?></b> <?php _e( 'jQuery/CSS selectors of the elements you wish to target. Examples: <code>.col-1, .col-2</code> or <code>.container .col</code>', 'equal-height-columns' ); ?></p>
+		<p><b><?php _e( 'Breakpoint:', 'equal-height-columns' ); ?></b> <?php _e( 'Screen width <i>above</i> which you want equal heights to take effect.', 'equal-height-columns' ); ?></p>
 		<br />
 		<?php
 	}
